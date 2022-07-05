@@ -1,0 +1,48 @@
+body {
+    font-family: 'Gulzar', serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.port {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.size {
+    width: 50%;
+    padding-left: 5%;
+
+
+}
+
+.size img {
+    width: 800px;
+
+
+}
+
+.page-link {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    font-weight: 700;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+
+p {
+    font-size: 17px;
+}
+
+.top-banner {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
